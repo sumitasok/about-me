@@ -1,4 +1,4 @@
-[Index](index.md)
+[Index](README.md)
 
 ---
 ## You received an implementation of a feature proposal and you see that the author has spent a significant amount of time on it. You don't agree with the way it was implemented and designed. How do you approach this situation, and how do you communicate with the contributor?

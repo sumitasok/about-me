@@ -1,4 +1,4 @@
-[Index](index.md)
+[Index](README.md)
 
 ---
 ## Do you have any remote working experience? What are pros and cons of working remotely?

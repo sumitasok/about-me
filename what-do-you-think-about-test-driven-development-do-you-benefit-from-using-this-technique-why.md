@@ -1,4 +1,4 @@
-[Index](index.md)
+[Index](README.md)
 
 ---
 ## What do you think about Test Driven Development? Do you benefit from using this technique? Why?
